@@ -1,6 +1,8 @@
 # E-Paper-Development-Board-Type-C
 > 微雪电子2.13寸e-Paper红黄黑白四色电子墨水屏驱动demo
 
+![2.13inch-e-Paper-HAT-G-4](./README.assets/figure7.jpg)
+
 ## 简介
 
 * 开发工具：Keil V5.38a，VsCode
@@ -48,6 +50,10 @@ E-Paper-Development-Board-Type-C
 ![image-20231011193848173](./README.assets/figure5.png)
 
 <center>   <div style="color:orange; border-bottom: 1px solid #d9d9d9;    display: inline-block;    color: #999;    padding: 2px;">图5. PWM接口网络名与I/O对照表 </div> </center>
+
+* **墨水屏**线序
+
+![2.13inch-e-Paper-HAT-G-5](./README.assets/figure6.jpg)
 
 使用 8PIN 排线连接，请参考下方的引脚对应表格：
 
